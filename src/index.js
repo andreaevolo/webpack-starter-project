@@ -1,3 +1,3 @@
-import { helloWorld } from './prova';
+import './index.scss';
 
-helloWorld()
+document.querySelector('#welcome-message').textContent = 'Webpack starter project.';
