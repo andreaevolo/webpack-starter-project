@@ -1,7 +1,7 @@
 # webpack-starter-project
 
-Build command:
+Build command:\n
 ``` npm run build ```
 
-Start development server:
+Start development server:\n
 ``` npm start ```
